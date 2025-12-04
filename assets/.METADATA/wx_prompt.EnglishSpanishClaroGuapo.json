@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "name": "EnglishSpanish-ClaroGuapo",
+    "description": "Test prompt template",
+    "asset_type": "wx_prompt",
+    "origin_country": "us",
+    "asset_attributes": [
+      "wx_prompt"
+    ],
+    "resource_key": "af58c2f224c01dcd6c6d6a1e42077ff6499785bff02522053a0c525842b298cb",
+    "asset_category": "USER",
+    "created_at": "2025-12-04T10:09:08Z",
+    "created": 1764842948092,
+    "asset_id": "wx_prompt.EnglishSpanishClaroGuapo"
+  },
+  "entity": {
+    "wx_prompt": {
+      "input_mode": "structured",
+      "is_template": false,
+      "sql_connection": {}
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "wx_prompt",
+      "name": "EnglishSpanish-ClaroGuapo.json",
+      "mime": "application/json",
+      "object_key": "wx_prompt/EnglishSpanish-ClaroGuapo__da__4u0b0meofb.json",
+      "created_at": "2025-12-04T10:09:08Z",
+      "id": "f119bca7-eba7-4145-a34d-cdd49bdf2543",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
